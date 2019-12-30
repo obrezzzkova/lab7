@@ -1,0 +1,19 @@
+.graph {
+    width:350px;
+    height:350px;
+    background-color: #E6E6FA;
+}
+
+.field {
+    clear:both;
+    text-align:right;
+}
+
+label {
+    float:left;
+    padding-left:5px;
+}
+
+.main {
+    float:left
+}
